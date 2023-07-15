@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hellp World (Nguyen Ba Trung)
-        </p>
+        </p>x
         <a
           className="App-link"
           href="https://reactjs.org"
